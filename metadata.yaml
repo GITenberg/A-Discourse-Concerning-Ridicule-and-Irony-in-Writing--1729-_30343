@@ -1,0 +1,37 @@
+_repo: A-Discourse-Concerning-Ridicule-and-Irony-in-Writing--1729-_30343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, Anthony
+    birthdate: 1676
+    deathdate: 1729
+    gutenberg_agent_id: '34541'
+    url: http://www.gutenberg.org/2009/agents/34541
+  editors:
+  - agent_name: Bloom, Lillian D.
+    birthdate: 1920
+    gutenberg_agent_id: '34540'
+    url: http://www.gutenberg.org/2009/agents/34540
+  - agent_name: Bloom, Edward A. (Edward Alan)
+    birthdate: 1914
+    deathdate: 1994
+    gutenberg_agent_id: '34539'
+    url: http://www.gutenberg.org/2009/agents/34539
+description: ''
+gutenberg_issued: '2009-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30343'
+  lccn: '70633346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Satire'
+title: A Discourse Concerning Ridicule and Irony in Writing (1729)
+url: http://www.gutenberg.org/ebooks/30343
